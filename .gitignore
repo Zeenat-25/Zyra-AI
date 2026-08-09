@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+node_modules/
+dist/
+.DS_Store
+*.egg-info/
+.pytest_cache/
+*.db
+hf_models/
+Hackathon Readiness for AgriSync.pdf
+tasks/
